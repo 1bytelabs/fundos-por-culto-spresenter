@@ -74,3 +74,7 @@ scripts/           Script de empacotamento
 [github.com/1bytelabs](https://github.com/1bytelabs)
 
 Este é um projeto comunitário independente e não oficial, desenvolvido pela 1Byte Labs.
+
+## Contato — 1Byte Labs
+
+[1bytelabs.com.br](https://1bytelabs.com.br) · [contato@1bytelabs.com.br](mailto:contato@1bytelabs.com.br)
