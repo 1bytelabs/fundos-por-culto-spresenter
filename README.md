@@ -1,12 +1,12 @@
-# Fundos por Culto — Zosma Labs
+# Fundos por Culto — 1Byte Labs
 
 **Automatize a troca de fundos da Bíblia no SPresenter de acordo com o culto, setlist ou programação.**
 
-Plugin gratuito da [Zosma Labs](https://zosma.com.br) para aplicar automaticamente imagens ou vídeos de fundo quando versículos da Bíblia são enviados ao vivo.
+Plugin gratuito da [1Byte Labs](https://github.com/zosmalabs) para aplicar automaticamente imagens ou vídeos de fundo quando versículos da Bíblia são enviados ao vivo.
 
 > **Versão atual: 1.8.4**
 
-[Baixar a versão mais recente](https://github.com/zosmalabs/fundos-por-culto-spresenter/releases/latest) · [Tutorial](https://youtu.be/tORfqEOUnok) · [Site da Zosma](https://zosma.com.br)
+[Baixar a versão mais recente](https://github.com/zosmalabs/fundos-por-culto-spresenter/releases/latest) · [Tutorial](https://youtu.be/tORfqEOUnok) · [Projetos da 1Byte Labs](https://github.com/zosmalabs)
 
 ## Principais recursos
 
@@ -65,10 +65,10 @@ sdk/               SDK do SPresenter usado pelo projeto
 scripts/           Script de empacotamento
 ```
 
-## Zosma Labs
+## 1Byte Labs
 
 **Ideias transformadas em software.**
 
-[zosma.com.br](https://zosma.com.br)
+[github.com/zosmalabs](https://github.com/zosmalabs)
 
-Este é um projeto comunitário independente e não oficial, desenvolvido pela Zosma Labs.
+Este é um projeto comunitário independente e não oficial, desenvolvido pela 1Byte Labs.
