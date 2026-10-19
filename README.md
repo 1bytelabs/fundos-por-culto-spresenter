@@ -1,12 +1,14 @@
+<p align="center"><img src="./assets/1bytelabs-cover.svg" alt="fundos-por-culto-spresenter — 1Byte Labs" width="100%" /></p>
+
 # Fundos por Culto — 1Byte Labs
 
 **Automatize a troca de fundos da Bíblia no SPresenter de acordo com o culto, setlist ou programação.**
 
-Plugin gratuito da [1Byte Labs](https://github.com/zosmalabs) para aplicar automaticamente imagens ou vídeos de fundo quando versículos da Bíblia são enviados ao vivo.
+Plugin gratuito da [1Byte Labs](https://github.com/1bytelabs) para aplicar automaticamente imagens ou vídeos de fundo quando versículos da Bíblia são enviados ao vivo.
 
 > **Versão atual: 1.8.4**
 
-[Baixar a versão mais recente](https://github.com/zosmalabs/fundos-por-culto-spresenter/releases/latest) · [Tutorial](https://youtu.be/tORfqEOUnok) · [Projetos da 1Byte Labs](https://github.com/zosmalabs)
+[Baixar a versão mais recente](https://github.com/1bytelabs/fundos-por-culto-spresenter/releases/latest) · [Tutorial](https://youtu.be/tORfqEOUnok) · [Projetos da 1Byte Labs](https://github.com/1bytelabs)
 
 ## Principais recursos
 
@@ -28,7 +30,7 @@ A prioridade de seleção é: **perfil manual → setlist ativo → agenda por d
 
 ## Instalação
 
-1. Acesse a página de [Releases](https://github.com/zosmalabs/fundos-por-culto-spresenter/releases/latest).
+1. Acesse a página de [Releases](https://github.com/1bytelabs/fundos-por-culto-spresenter/releases/latest).
 2. Baixe o arquivo ZIP da versão mais recente.
 3. No SPresenter, abra **Configurações → Plugins → Instalar (.zip/pasta)**.
 4. Selecione o ZIP sem extraí-lo.
@@ -69,6 +71,10 @@ scripts/           Script de empacotamento
 
 **Ideias transformadas em software.**
 
-[github.com/zosmalabs](https://github.com/zosmalabs)
+[github.com/1bytelabs](https://github.com/1bytelabs)
 
 Este é um projeto comunitário independente e não oficial, desenvolvido pela 1Byte Labs.
+
+## Contato — 1Byte Labs
+
+[1bytelabs.com.br](https://1bytelabs.com.br) · [contato@1bytelabs.com.br](mailto:contato@1bytelabs.com.br)
