@@ -1,9 +1,9 @@
 {
   "id": "com.zosmalabs.fundos-por-culto",
   "name": "Fundos por Culto",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "description": "Seleciona automaticamente imagens ou vídeos de fundo para a Bíblia conforme o culto.",
-  "author": "Zosma Labs",
+  "author": "1Byte Labs",
   "minAppVersion": "0.3.45",
   "sdk": "0.3.45",
   "main": "dist/code.js",
